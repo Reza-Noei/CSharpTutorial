@@ -1,0 +1,17 @@
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\bin\Debug\net8.0-windows\WindowsForm.exe
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\bin\Debug\net8.0-windows\WindowsForm.deps.json
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\bin\Debug\net8.0-windows\WindowsForm.runtimeconfig.json
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\bin\Debug\net8.0-windows\WindowsForm.dll
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\bin\Debug\net8.0-windows\WindowsForm.pdb
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.Dice.resources
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.Main.resources
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.AssemblyInfoInputs.cache
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.AssemblyInfo.cs
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.dll
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\refint\WindowsForm.dll
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.pdb
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\WindowsForm.genruntimeconfig.cache
+C:\Users\Noei\source\repos\TutorialNoei\WindowsForm\obj\Debug\net8.0-windows\ref\WindowsForm.dll

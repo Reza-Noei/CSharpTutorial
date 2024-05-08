@@ -1,0 +1,14 @@
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\bin\Debug\net8.0\TutorialNoei.exe
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\bin\Debug\net8.0\TutorialNoei.deps.json
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\bin\Debug\net8.0\TutorialNoei.runtimeconfig.json
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\bin\Debug\net8.0\TutorialNoei.dll
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\bin\Debug\net8.0\TutorialNoei.pdb
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.AssemblyInfoInputs.cache
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.AssemblyInfo.cs
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.csproj.CoreCompileInputs.cache
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.dll
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\refint\TutorialNoei.dll
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.pdb
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\TutorialNoei.genruntimeconfig.cache
+C:\Users\Noei\source\repos\TutorialNoei\TutorialNoei\obj\Debug\net8.0\ref\TutorialNoei.dll
